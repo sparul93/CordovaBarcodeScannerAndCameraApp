@@ -1,0 +1,9 @@
+cordova create [app-name]
+cordove platform add android
+cordova plugin add cordova-plugin-camera
+cordova plugin add cordova-plugin-qr-barcode-scanner
+
+
+Copy the files from www folder 
+
+cordova run android
